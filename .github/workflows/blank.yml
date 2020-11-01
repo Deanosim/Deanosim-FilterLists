@@ -35,13 +35,23 @@ jobs:
         run: |
           sudo apt-get install jq git -y
           sudo npm i -g @adguard/hostlist-compiler
-          git clone https://github.com/uklans/cache-domains.git
+          git clone https://github.com/uklans/cache-domains.git .overlay/cache-domains
+          
+      # pushes changes    
+      - uses: actions/checkout@v2
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add output.txt
+          git add 
+          git commit -m "generated"
+          git push
               
       - name: Cache
         uses: actions/cache@v2.1.2
         with:
           # A list of files, directories, and wildcard patterns to cache and restore
-          path: /usr/lib/node_modules/@adguard/hostlist-compiler cache-domains/
+          path: /usr/lib/node_modules/@adguard/hostlist-compiler .overlay/
           # An explicit key for restoring and saving the cache
           key: hostlist-compiler
           # An ordered list of keys to use for restoring the cache if no cache hit occurred for key
