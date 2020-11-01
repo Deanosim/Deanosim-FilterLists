@@ -1,0 +1,19 @@
+{
+	"ips": {
+		"steam":	"192.168.1.200",
+		"origin":	"192.168.1.200",
+		"blizzard":	"192.168.1.200",
+		"windows":	"192.168.1.200",
+		"riot":		"192.168.1.200",
+		"generic":	"192.168.1.200"
+	},
+	"cache_domains": {
+		"default": 	"generic",
+		"blizzard": 	"blizzard",
+		"origin": 	"origin",
+		"riot": 	"riot",
+		"steam": 	"steam",
+		"wsus": 	"windows",
+		"xboxlive": 	"windows"
+	}
+}
