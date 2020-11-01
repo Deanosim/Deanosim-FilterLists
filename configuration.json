@@ -1,0 +1,153 @@
+{
+  "name": "Lancache-Deanosim",
+  "description": "Redirect gaming domains to lancache to cache the downloads.",
+  "homepage": "https://github.com/deanosim/lancache-adguard",
+  "license": "GPLv3",
+  "sources": [
+    {
+      "name": "arenanet rules",
+      "source": "arenanet.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+    {
+      "name": "blizzard rules",
+      "source": "blizzard.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+    {
+      "name": "cityofheroes rules",
+      "source": "cityofheroes.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+    {
+      "name": "daybreak rules",
+      "source": "daybreak.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+    {
+      "name": "epicgames rules",
+      "source": "epicgames.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+    {
+      "name": "frontier rules",
+      "source": "frontier.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+    {
+      "name": "hirez rules",
+      "source": "hirez.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "neverwinter rules",
+      "source": "neverwinter.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "nexusmods rules",
+      "source": "nexusmods.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "nintendo rules",
+      "source": "nintendo.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "origin rules",
+      "source": "origin.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "pathofexile rules",
+      "source": "pathofexile.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "riot rules",
+      "source": "riot.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "rockstar rules",
+      "source": "rockstar.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "sony rules",
+      "source": "sony.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "square rules",
+      "source": "square.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "steam rules",
+      "source": "steam.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "teso rules",
+      "source": "teso.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "twitch rules",
+      "source": "twitch.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "uplay rules",
+      "source": "uplay.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "warframe rules",
+      "source": "warframe.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "wargaming.net rules",
+      "source": "wargaming.net.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "wargaming.net rules",
+      "source": "wargaming.net.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    },
+	{
+      "name": "xboxlive rules",
+      "source": "xboxlive.hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments"]
+    }
+  ],
+  "transformations": ["Deduplicate"]
+}
