@@ -1,7 +1,7 @@
 !
 ! Title: Lancache-Deanosim
 ! Description: Redirect gaming domains to lancache to cache the downloads.
-! Homepage: https://github.com/deanosim/lancache-adguard
+! Homepage: https://github.com/deanosim/dns-lists
 ! License: GPLv3
 ! Last modified: 2020-11-01T21:01:52.420Z
 !
