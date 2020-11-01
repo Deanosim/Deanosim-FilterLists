@@ -39,6 +39,9 @@ jobs:
           cp cache-domains-config.json .overlay/cache-domains/scripts/config.json
           cd .overlay/cache-domains/scripts/
           ./create-dnsmasq.sh
+          cd ../../../
+          cp -R .overlay/cache-domains/scripts/output/dnsmasq output/
+          hostlist-compiler -c configuration.json -o output.txt          
           
       # pushes changes    
       - uses: actions/checkout@v2
