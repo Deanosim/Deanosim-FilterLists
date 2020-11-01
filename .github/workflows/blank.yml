@@ -41,14 +41,17 @@ jobs:
           ./create-dnsmasq.sh
           cd ../../../
           cp -R .overlay/cache-domains/scripts/output/dnsmasq output/
-          hostlist-compiler -c configuration.json -o output.txt          
+          hostlist-compiler -c configuration.json -o adguard.txt
+          cp adguard.txt pihole.txt
+          sed -i 's/!/#/' pihole.txt           
           
       # pushes changes    
       - uses: actions/checkout@v2
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add output.txt
+          git add adguard.txt
+          git add pihole.txt
           git commit -m "generated"
           git push
               
