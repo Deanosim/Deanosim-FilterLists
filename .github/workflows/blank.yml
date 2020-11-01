@@ -37,7 +37,8 @@ jobs:
           sudo npm i -g @adguard/hostlist-compiler
           git clone https://github.com/uklans/cache-domains.git .overlay/cache-domains
           cp cache-domains-config.json .overlay/cache-domains/scripts/config.json
-          ./.overlay/cache-domains/scripts/create-dnsmasq.sh
+          cd .overlay/cache-domains/scripts/
+          ./create-dnsmasq.sh
           
       # pushes changes    
       - uses: actions/checkout@v2
