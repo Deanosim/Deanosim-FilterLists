@@ -3,7 +3,7 @@
 # Description: Redirect gaming domains to lancache to cache the downloads.
 # Homepage: https://github.com/deanosim/lancache-adguard
 # License: GPLv3
-# Last modified: 2020-11-01T22:50:19.502Z
+# Last modified: 2020-11-17T08:26:52.466Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.8
 #
@@ -11,251 +11,252 @@
 # Source name: arenanet rules
 # Source: output/arenanet.hosts
 #
-192.168.1.200 assetcdn.101.arenanetworks.com
-192.168.1.200 assetcdn.102.arenanetworks.com
-192.168.1.200 assetcdn.103.arenanetworks.com
-192.168.1.200 live.patcher.bladeandsoul.com
+192.168.1.100 assetcdn.101.arenanetworks.com
+192.168.1.100 assetcdn.102.arenanetworks.com
+192.168.1.100 assetcdn.103.arenanetworks.com
+192.168.1.100 live.patcher.bladeandsoul.com
 
 #
 # Source name: blizzard rules
 # Source: output/blizzard.hosts
 #
-192.168.1.200 dist.blizzard.com
-192.168.1.200 dist.blizzard.com.edgesuite.net
-192.168.1.200 llnw.blizzard.com
-192.168.1.200 edgecast.blizzard.com
-192.168.1.200 blizzard.vo.llnwd.net
-192.168.1.200 blzddist1-a.akamaihd.net
-192.168.1.200 blzddist2-a.akamaihd.net
-192.168.1.200 blzddist3-a.akamaihd.net
-192.168.1.200 blzddist4-a.akamaihd.net
-192.168.1.200 level3.blizzard.com
-192.168.1.200 nydus.battle.net
-192.168.1.200 edge.blizzard.top.comcast.net
-192.168.1.200 cdn.blizzard.com
+192.168.1.100 dist.blizzard.com
+192.168.1.100 dist.blizzard.com.edgesuite.net
+192.168.1.100 llnw.blizzard.com
+192.168.1.100 edgecast.blizzard.com
+192.168.1.100 blizzard.vo.llnwd.net
+192.168.1.100 blzddist1-a.akamaihd.net
+192.168.1.100 blzddist2-a.akamaihd.net
+192.168.1.100 blzddist3-a.akamaihd.net
+192.168.1.100 blzddist4-a.akamaihd.net
+192.168.1.100 level3.blizzard.com
+192.168.1.100 nydus.battle.net
+192.168.1.100 edge.blizzard.top.comcast.net
+192.168.1.100 cdn.blizzard.com
 
 #
 # Source name: cityofheroes rules
 # Source: output/cityofheroes.hosts
 #
-192.168.1.200 cdn.homecomingservers.com
-192.168.1.200 nsa.tools
+192.168.1.100 cdn.homecomingservers.com
+192.168.1.100 nsa.tools
 
 #
 # Source name: daybreak rules
 # Source: output/daybreak.hosts
 #
-192.168.1.200 pls.patch.daybreakgames.com
+192.168.1.100 pls.patch.daybreakgames.com
 
 #
 # Source name: epicgames rules
 # Source: output/epicgames.hosts
 #
-192.168.1.200 cdn1.epicgames.com
-192.168.1.200 cdn.unrealengine.com
-192.168.1.200 cdn1.unrealengine.com
-192.168.1.200 cdn2.unrealengine.com
-192.168.1.200 cdn3.unrealengine.com
-192.168.1.200 download.epicgames.com
-192.168.1.200 download2.epicgames.com
-192.168.1.200 download3.epicgames.com
-192.168.1.200 download4.epicgames.com
-192.168.1.200 epicgames-download1.akamaized.net
+192.168.1.100 cdn1.epicgames.com
+192.168.1.100 cdn.unrealengine.com
+192.168.1.100 cdn1.unrealengine.com
+192.168.1.100 cdn2.unrealengine.com
+192.168.1.100 cdn3.unrealengine.com
+192.168.1.100 download.epicgames.com
+192.168.1.100 download2.epicgames.com
+192.168.1.100 download3.epicgames.com
+192.168.1.100 download4.epicgames.com
+192.168.1.100 epicgames-download1.akamaized.net
 
 #
 # Source name: frontier rules
 # Source: output/frontier.hosts
 #
-192.168.1.200 cdn.zaonce.net
+192.168.1.100 cdn.zaonce.net
 
 #
 # Source name: hirez rules
 # Source: output/hirez.hosts
 #
-192.168.1.200 hirez.http.internapcdn.net
+192.168.1.100 hirez.http.internapcdn.net
 
 #
 # Source name: neverwinter rules
 # Source: output/neverwinter.hosts
 #
-192.168.1.200 level3.nwhttppatch.crypticstudios.com
+192.168.1.100 level3.nwhttppatch.crypticstudios.com
 
 #
 # Source name: nexusmods rules
 # Source: output/nexusmods.hosts
 #
-192.168.1.200 filedelivery.nexusmods.com
+192.168.1.100 filedelivery.nexusmods.com
 
 #
 # Source name: nintendo rules
 # Source: output/nintendo.hosts
 #
-192.168.1.200 ccs.cdn.wup.shop.nintendo.com
-192.168.1.200 ccs.cdn.wup.shop.nintendo.net
-192.168.1.200 ccs.cdn.wup.shop.nintendo.net.edgesuite.net
-192.168.1.200 geisha-wup.cdn.nintendo.net
-192.168.1.200 geisha-wup.cdn.nintendo.net.edgekey.net
-192.168.1.200 idbe-wup.cdn.nintendo.net
-192.168.1.200 idbe-wup.cdn.nintendo.net.edgekey.net
-192.168.1.200 ecs-lp1.hac.shop.nintendo.net
-192.168.1.200 receive-lp1.dg.srv.nintendo.net
-192.168.1.200 wup.eshop.nintendo.net
-192.168.1.200 hac.lp1.d4c.nintendo.net
-192.168.1.200 hac.lp1.eshop.nintendo.net
+192.168.1.100 ccs.cdn.wup.shop.nintendo.com
+192.168.1.100 ccs.cdn.wup.shop.nintendo.net
+192.168.1.100 ccs.cdn.wup.shop.nintendo.net.edgesuite.net
+192.168.1.100 geisha-wup.cdn.nintendo.net
+192.168.1.100 geisha-wup.cdn.nintendo.net.edgekey.net
+192.168.1.100 idbe-wup.cdn.nintendo.net
+192.168.1.100 idbe-wup.cdn.nintendo.net.edgekey.net
+192.168.1.100 ecs-lp1.hac.shop.nintendo.net
+192.168.1.100 receive-lp1.dg.srv.nintendo.net
+192.168.1.100 wup.eshop.nintendo.net
+192.168.1.100 hac.lp1.d4c.nintendo.net
+192.168.1.100 hac.lp1.eshop.nintendo.net
 
 #
 # Source name: origin rules
 # Source: output/origin.hosts
 #
-192.168.1.200 origin-a.akamaihd.net
-192.168.1.200 lvlt.cdn.ea.com
+192.168.1.100 origin-a.akamaihd.net
+192.168.1.100 lvlt.cdn.ea.com
 
 #
 # Source name: pathofexile rules
 # Source: output/pathofexile.hosts
 #
-192.168.1.200 patchcdn.pathofexile.com
+192.168.1.100 patchcdn.pathofexile.com
 
 #
 # Source name: riot rules
 # Source: output/riot.hosts
 #
-192.168.1.200 l3cdn.riotgames.com
-192.168.1.200 worldwide.l3cdn.riotgames.com
-192.168.1.200 riotgamespatcher-a.akamaihd.net
-192.168.1.200 riotgamespatcher-a.akamaihd.net.edgesuite.net
-192.168.1.200 dyn.riotcdn.net
+192.168.1.100 l3cdn.riotgames.com
+192.168.1.100 worldwide.l3cdn.riotgames.com
+192.168.1.100 riotgamespatcher-a.akamaihd.net
+192.168.1.100 riotgamespatcher-a.akamaihd.net.edgesuite.net
+192.168.1.100 dyn.riotcdn.net
 
 #
 # Source name: rockstar rules
 # Source: output/rockstar.hosts
 #
-192.168.1.200 patches.rockstargames.com
+192.168.1.100 patches.rockstargames.com
 
 #
 # Source name: sony rules
 # Source: output/sony.hosts
 #
-192.168.1.200 gs2.ww.prod.dl.playstation.net
-192.168.1.200 gs2.sonycoment.loris-e.llnwd.net
+192.168.1.100 gs2.ww.prod.dl.playstation.net
+192.168.1.100 gs2.sonycoment.loris-e.llnwd.net
 
 #
 # Source name: square rules
 # Source: output/square.hosts
 #
-192.168.1.200 patch-dl.ffxiv.com
+192.168.1.100 patch-dl.ffxiv.com
 
 #
 # Source name: steam rules
 # Source: output/steam.hosts
 #
-192.168.1.200 lancache.steamcontent.com
-192.168.1.200 content.steampowered.com
-192.168.1.200 content1.steampowered.com
-192.168.1.200 content2.steampowered.com
-192.168.1.200 content3.steampowered.com
-192.168.1.200 content4.steampowered.com
-192.168.1.200 content5.steampowered.com
-192.168.1.200 content6.steampowered.com
-192.168.1.200 content7.steampowered.com
-192.168.1.200 content8.steampowered.com
-192.168.1.200 cs.steampowered.com
-192.168.1.200 client-download.steampowered.com
-192.168.1.200 hsar.steampowered.com.edgesuite.net
-192.168.1.200 akamai.steamstatic.com
-192.168.1.200 content-origin.steampowered.com
-192.168.1.200 clientconfig.akamai.steamtransparent.com
-192.168.1.200 steampipe.akamaized.net
-192.168.1.200 edgecast.steamstatic.com
-192.168.1.200 steam.apac.qtlglb.com.mwcloudcdn.com
-192.168.1.200 cm.steampowered.com
-192.168.1.200 cdn1-sea1.valve.net
-192.168.1.200 cdn2-sea1.valve.net
-192.168.1.200 steam-content-dnld-1.apac-1-cdn.cqloud.com
-192.168.1.200 steam-content-dnld-1.eu-c1-cdn.cqloud.com
-192.168.1.200 edge.steam-dns.top.comcast.net
-192.168.1.200 edge.steam-dns-2.top.comcast.net
-192.168.1.200 steam.naeu.qtlglb.com
-192.168.1.200 steampipe-kr.akamaized.net
-192.168.1.200 steam.ix.asn.au
-192.168.1.200 steam.eca.qtlglb.com
-192.168.1.200 steam.cdn.on.net
-192.168.1.200 update5.dota2.wmsj.cn
-192.168.1.200 update2.dota2.wmsj.cn
-192.168.1.200 update6.dota2.wmsj.cn
-192.168.1.200 update3.dota2.wmsj.cn
-192.168.1.200 update1.dota2.wmsj.cn
-192.168.1.200 update4.dota2.wmsj.cn
-192.168.1.200 update5.csgo.wmsj.cn
-192.168.1.200 update2.csgo.wmsj.cn
-192.168.1.200 update4.csgo.wmsj.cn
-192.168.1.200 update3.csgo.wmsj.cn
-192.168.1.200 update6.csgo.wmsj.cn
-192.168.1.200 update1.csgo.wmsj.cn
-192.168.1.200 st.dl.bscstorage.net
-192.168.1.200 cdn.mileweb.cs.steampowered.com.8686c.com
-192.168.1.200 steamcdn-a.akamaihd.net
+192.168.1.100 lancache.steamcontent.com
+192.168.1.100 content.steampowered.com
+192.168.1.100 content1.steampowered.com
+192.168.1.100 content2.steampowered.com
+192.168.1.100 content3.steampowered.com
+192.168.1.100 content4.steampowered.com
+192.168.1.100 content5.steampowered.com
+192.168.1.100 content6.steampowered.com
+192.168.1.100 content7.steampowered.com
+192.168.1.100 content8.steampowered.com
+192.168.1.100 cs.steampowered.com
+192.168.1.100 client-download.steampowered.com
+192.168.1.100 hsar.steampowered.com.edgesuite.net
+192.168.1.100 akamai.steamstatic.com
+192.168.1.100 content-origin.steampowered.com
+192.168.1.100 clientconfig.akamai.steamtransparent.com
+192.168.1.100 steampipe.akamaized.net
+192.168.1.100 edgecast.steamstatic.com
+192.168.1.100 steam.apac.qtlglb.com.mwcloudcdn.com
+192.168.1.100 cm.steampowered.com
+192.168.1.100 cdn1-sea1.valve.net
+192.168.1.100 cdn2-sea1.valve.net
+192.168.1.100 steam-content-dnld-1.apac-1-cdn.cqloud.com
+192.168.1.100 steam-content-dnld-1.eu-c1-cdn.cqloud.com
+192.168.1.100 edge.steam-dns.top.comcast.net
+192.168.1.100 edge.steam-dns-2.top.comcast.net
+192.168.1.100 steam.naeu.qtlglb.com
+192.168.1.100 steampipe-kr.akamaized.net
+192.168.1.100 steam.ix.asn.au
+192.168.1.100 steam.eca.qtlglb.com
+192.168.1.100 steam.cdn.on.net
+192.168.1.100 update5.dota2.wmsj.cn
+192.168.1.100 update2.dota2.wmsj.cn
+192.168.1.100 update6.dota2.wmsj.cn
+192.168.1.100 update3.dota2.wmsj.cn
+192.168.1.100 update1.dota2.wmsj.cn
+192.168.1.100 update4.dota2.wmsj.cn
+192.168.1.100 update5.csgo.wmsj.cn
+192.168.1.100 update2.csgo.wmsj.cn
+192.168.1.100 update4.csgo.wmsj.cn
+192.168.1.100 update3.csgo.wmsj.cn
+192.168.1.100 update6.csgo.wmsj.cn
+192.168.1.100 update1.csgo.wmsj.cn
+192.168.1.100 st.dl.bscstorage.net
+192.168.1.100 cdn.mileweb.cs.steampowered.com.8686c.com
+192.168.1.100 steamcdn-a.akamaihd.net
 
 #
 # Source name: teso rules
 # Source: output/teso.hosts
 #
-192.168.1.200 live.patcher.elderscrollsonline.com
+192.168.1.100 live.patcher.elderscrollsonline.com
 
 #
 # Source name: twitch rules
 # Source: output/twitch.hosts
 #
-192.168.1.200 d3rmjivj4k4f0t.cloudfront.net
-192.168.1.200 addons.forgesvc.net
-192.168.1.200 media.forgecdn.net
-192.168.1.200 files.forgecdn.net
+192.168.1.100 d3rmjivj4k4f0t.cloudfront.net
+192.168.1.100 addons.forgesvc.net
+192.168.1.100 media.forgecdn.net
+192.168.1.100 files.forgecdn.net
 
 #
 # Source name: uplay rules
 # Source: output/uplay.hosts
 #
-192.168.1.200 cdn.ubi.com
+192.168.1.100 cdn.ubi.com
 
 #
 # Source name: warframe rules
 # Source: output/warframe.hosts
 #
-192.168.1.200 content.warframe.com
+192.168.1.100 content.warframe.com
 
 #
 # Source name: wargaming.net rules
 # Source: output/wargaming.net.hosts
 #
-192.168.1.200 dl1.wargaming.net
-192.168.1.200 dl2.wargaming.net
-192.168.1.200 wg.gcdn.co
-192.168.1.200 wgusst-na.wargaming.net
-192.168.1.200 wgusst-eu.wargaming.net
-192.168.1.200 update-v4r4h10x.worldofwarships.com
-192.168.1.200 wgus-wotasia.wargaming.net
-192.168.1.200 dl-wot-ak.wargaming.net
-192.168.1.200 dl-wot-gc.wargaming.net
-192.168.1.200 dl-wot-se.wargaming.net
-192.168.1.200 dl-wot-cdx.wargaming.net
-192.168.1.200 dl-wows-ak.wargaming.net
-192.168.1.200 dl-wows-gc.wargaming.net
-192.168.1.200 dl-wows-se.wargaming.net
-192.168.1.200 dl-wows-cdx.wargaming.net
-192.168.1.200 dl-wowp-ak.wargaming.net
-192.168.1.200 dl-wowp-gc.wargaming.net
-192.168.1.200 dl-wowp-se.wargaming.net
-192.168.1.200 dl-wowp-cdx.wargaming.net
+192.168.1.100 dl1.wargaming.net
+192.168.1.100 dl2.wargaming.net
+192.168.1.100 wg.gcdn.co
+192.168.1.100 wgusst-na.wargaming.net
+192.168.1.100 wgusst-eu.wargaming.net
+192.168.1.100 update-v4r4h10x.worldofwarships.com
+192.168.1.100 wgus-wotasia.wargaming.net
+192.168.1.100 dl-wot-ak.wargaming.net
+192.168.1.100 dl-wot-gc.wargaming.net
+192.168.1.100 dl-wot-se.wargaming.net
+192.168.1.100 dl-wot-cdx.wargaming.net
+192.168.1.100 dl-wows-ak.wargaming.net
+192.168.1.100 dl-wows-gc.wargaming.net
+192.168.1.100 dl-wows-se.wargaming.net
+192.168.1.100 dl-wows-cdx.wargaming.net
+192.168.1.100 dl-wowp-ak.wargaming.net
+192.168.1.100 dl-wowp-gc.wargaming.net
+192.168.1.100 dl-wowp-se.wargaming.net
+192.168.1.100 dl-wowp-cdx.wargaming.net
 
 #
 # Source name: xboxlive rules
 # Source: output/xboxlive.hosts
 #
-192.168.1.200 assets1.xboxlive.com
-192.168.1.200 assets2.xboxlive.com
-192.168.1.200 dlassets.xboxlive.com
-192.168.1.200 xboxone.loris.llnwd.net
-192.168.1.200 xboxone.vo.llnwd.net
-192.168.1.200 xbox-mbr.xboxlive.com
-192.168.1.200 assets1.xboxlive.com.nsatc.net
-192.168.1.200 xvcf1.xboxlive.com
+192.168.1.100 assets1.xboxlive.com
+192.168.1.100 assets2.xboxlive.com
+192.168.1.100 dlassets.xboxlive.com
+192.168.1.100 xboxone.loris.llnwd.net
+192.168.1.100 xboxone.vo.llnwd.net
+192.168.1.100 xbox-mbr.xboxlive.com
+192.168.1.100 assets1.xboxlive.com.nsatc.net
+192.168.1.100 xvcf1.xboxlive.com
+192.168.1.100 d1.xboxlive.com
