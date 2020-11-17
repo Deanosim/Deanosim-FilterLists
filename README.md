@@ -8,5 +8,5 @@ just copy the raw url into pihole or adguard home
 
 ### Adguard: 
 ```https://raw.githubusercontent.com/Deanosim/dns-lists/main/adguard.txt```
-### Pihole: 
+### Pihole: (Pihole list currently doesn't work, and just blocks everything)
 ```https://github.com/Deanosim/dns-lists/raw/main/pihole.txt```
