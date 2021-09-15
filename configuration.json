@@ -6,139 +6,139 @@
   "sources": [
     {
       "name": "arenanet rules",
-      "source": "output/dnsmasq/arenanet.conf",
+      "source": "output/arenanet.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
     {
       "name": "blizzard rules",
-      "source": "output/dnsmasq/blizzard.conf",
+      "source": "output/blizzard.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
     {
       "name": "cityofheroes rules",
-      "source": "output/dnsmasq/dnsmasq/cityofheroes.conf",
+      "source": "output/cityofheroes.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
     {
       "name": "daybreak rules",
-      "source": "output/dnsmasq/dnsmasq/daybreak.conf",
+      "source": "output/daybreak.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
     {
       "name": "epicgames rules",
-      "source": "output/dnsmasq/epicgames.conf",
+      "source": "output/epicgames.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
     {
       "name": "frontier rules",
-      "source": "output/dnsmasq/frontier.conf",
+      "source": "output/frontier.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
     {
       "name": "hirez rules",
-      "source": "output/dnsmasq/hirez.conf",
+      "source": "output/hirez.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "neverwinter rules",
-      "source": "output/dnsmasq/neverwinter.conf",
+      "source": "output/neverwinter.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "nexusmods rules",
-      "source": "output/dnsmasq/nexusmods.conf",
+      "source": "output/nexusmods.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "nintendo rules",
-      "source": "output/dnsmasq/nintendo.conf",
+      "source": "output/nintendo.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "origin rules",
-      "source": "output/dnsmasq/origin.conf",
+      "source": "output/origin.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "pathofexile rules",
-      "source": "output/dnsmasq/pathofexile.conf",
+      "source": "output/pathofexile.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "riot rules",
-      "source": "output/dnsmasq/riot.conf",
+      "source": "output/riot.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "rockstar rules",
-      "source": "output/dnsmasq/rockstar.conf",
+      "source": "output/rockstar.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "sony rules",
-      "source": "output/dnsmasq/sony.conf",
+      "source": "output/sony.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "square rules",
-      "source": "output/dnsmasq/square.conf",
+      "source": "output/square.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "steam rules",
-      "source": "output/dnsmasq/steam.conf",
+      "source": "output/steam.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "teso rules",
-      "source": "output/dnsmasq/teso.conf",
+      "source": "output/teso.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "uplay rules",
-      "source": "output/dnsmasq/uplay.conf",
+      "source": "output/uplay.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "warframe rules",
-      "source": "output/dnsmasq/warframe.conf",
+      "source": "output/warframe.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "wargaming.net rules",
-      "source": "output/dnsmasq/wargaming.net.conf",
+      "source": "output/wargaming.net.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "wargaming.net rules",
-      "source": "output/dnsmasq/wargaming.net.conf",
+      "source": "output/wargaming.net.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
 	{
       "name": "xboxlive rules",
-      "source": "output/dnsmasq/xboxlive.conf",
+      "source": "output/xboxlive.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     }
