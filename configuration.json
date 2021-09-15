@@ -113,12 +113,6 @@
       "transformations": ["RemoveComments"]
     },
 	{
-      "name": "twitch rules",
-      "source": "output/twitch.hosts",
-      "type": "hosts",
-      "transformations": ["RemoveComments"]
-    },
-	{
       "name": "uplay rules",
       "source": "output/uplay.hosts",
       "type": "hosts",

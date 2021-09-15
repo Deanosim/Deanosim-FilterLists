@@ -1,19 +1,33 @@
 {
 	"ips": {
-		"steam":	"192.168.1.100",
-		"origin":	"192.168.1.100",
-		"blizzard":	"192.168.1.100",
-		"windows":	"192.168.1.100",
-		"riot":		"192.168.1.100",
-		"generic":	"192.168.1.100"
+	  "generic":	["192.168.1.100"]
 	},
 	"cache_domains": {
-		"default": 	"generic",
-		"blizzard": 	"blizzard",
-		"origin": 	"origin",
-		"riot": 	"riot",
-		"steam": 	"steam",
-		"wsus": 	"windows",
-		"xboxlive": 	"windows"
+	  "default":      "generic",
+	  "arenanet":     "generic",
+	  "blizzard":     "generic",
+	  "bsg":          "generic",
+	  "cityofheroes": "generic",
+	  "daybreak":     "generic",
+	  "epicgames":    "generic",
+	  "frontier":     "generic",
+	  "hirez":        "generic",
+	  "neverwinter":  "generic",
+	  "nexusmods":    "generic",
+	  "nintendo":     "generic",
+	  "origin":       "generic",
+	  "pathofexile":  "generic",
+	  "renegadex":    "generic",
+	  "riot":         "generic",
+	  "rockstar":     "generic",
+	  "sony":         "generic",
+	  "square":       "generic",
+	  "steam":        "generic",
+	  "teso":         "generic",
+	  "uplay":        "generic",
+	  "warframe":     "generic",
+	  "wargaming":    "generic",
+	  "wsus":         "generic",
+	  "xboxlive":     "generic"
 	}
-}
+  }
