@@ -6,7 +6,7 @@
   "sources": [
     {
       "name": "arenanet rules",
-      "source": "output/dnsmasq/dnsmasq/arenanet.conf",
+      "source": "output/dnsmasq/arenanet.conf",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
