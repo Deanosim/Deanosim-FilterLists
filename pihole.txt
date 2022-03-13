@@ -3,7 +3,7 @@
 # Description: Redirect gaming domains to lancache to cache the downloads.
 # Homepage: https://github.com/deanosim/lancache-adguard
 # License: GPLv3
-# Last modified: 2021-09-15T13:09:39.807Z
+# Last modified: 2022-03-13T11:06:12.831Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
@@ -38,8 +38,10 @@ address=/nydus.battle.net/192.168.1.100
 # Source name: cityofheroes rules
 # Source: output/cityofheroes.conf
 #
-address=/cdn.homecomingservers.com/192.168.1.100
-address=/nsa.tools/192.168.1.100
+address=/cdn-eu1.homecomingservers.com/192.168.1.100
+address=/cdn-na1.homecomingservers.com/192.168.1.100
+address=/cdn-na2.homecomingservers.com/192.168.1.100
+address=/cdn-na3.homecomingservers.com/192.168.1.100
 
 #
 # Source name: daybreak rules
@@ -109,6 +111,7 @@ address=/receive-lp1.dg.srv.nintendo.net/192.168.1.100
 # Source name: origin rules
 # Source: output/origin.conf
 #
+address=/cdn-patch.swtor.com/192.168.1.100
 address=/lvlt.cdn.ea.com/192.168.1.100
 address=/origin-a.akamaihd.net/192.168.1.100
 
@@ -259,7 +262,7 @@ address=/assets1.xboxlive.com/192.168.1.100
 address=/assets1.xboxlive.com.nsatc.net/192.168.1.100
 address=/assets2.xboxlive.com/192.168.1.100
 address=/d1.xboxlive.com/192.168.1.100
-address=/dlassets.xboxlive.com/192.168.1.100
 address=/xbox-mbr.xboxlive.com/192.168.1.100
 address=/xboxone.vo.llnwd.net/192.168.1.100
 address=/xvcf1.xboxlive.com/192.168.1.100
+address=/xvcf2.xboxlive.com/192.168.1.100
