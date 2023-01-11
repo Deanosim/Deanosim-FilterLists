@@ -1,4 +1,5 @@
-# Currently none of this stuff actually works.
+# Currently none of this stuff actually works (Apart from the allow list which is my own personal list of domains I need unblocked).
+# I'll have to eventually rewrite all the stuff in this repo.
 
 # dns-lists
 Project on hold because some domains refuse to work with adguard and so now I put lancache-dns in front of adguard
