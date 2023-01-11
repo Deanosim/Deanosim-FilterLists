@@ -1,0 +1,6 @@
+# Created by Deanosim
+#
+# Required for Halo games https://support.halowaypoint.com/hc/en-us/articles/360037573011-Achievement-progression-and-unlock-issues-in-Halo-The-Master-Chief-Collection
+@@||vortex.data.microsoft.com^$important
+@@||playfabapi.com^$important
+@@||halowaypoint.com^$important
