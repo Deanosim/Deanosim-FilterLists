@@ -1,6 +1,7 @@
 # Created by Deanosim
 #
 # Required for Halo games https://support.halowaypoint.com/hc/en-us/articles/360037573011-Achievement-progression-and-unlock-issues-in-Halo-The-Master-Chief-Collection
-@@||vortex.data.microsoft.com^$important
+@@||vortex.data.microsoft.com^$important # Also needed for Xbox Achievements to unlock
 @@||playfabapi.com^$important
 @@||halowaypoint.com^$important
+@@||arc.msn.com^$important #Needed for Xbox Game Pass Perks to work
