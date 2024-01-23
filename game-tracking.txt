@@ -1,0 +1,9 @@
+# Epic Online Services
+dev.epicgames.com
+api.epicgames.dev
+et.epicgames.com
+et2.epicgames.com
+udn.epicgames.com
+etsource.epicgames.com
+metrics.ol.epicgames.com
+datarouter.ol.epicgames.com
