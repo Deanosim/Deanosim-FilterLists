@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Title: Deanosim-BlocklistList
+!
+! 2023-04-21 https://twitter.com Twitter blue
+twitter.com##a.r-13qz1uu.r-oyd9sg.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1habvwh.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(6)
+twitter.com##a.r-13qz1uu.r-oyd9sg.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1habvwh.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(7)
+twitter.com###layers > div:nth-child(2)
